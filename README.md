@@ -14,7 +14,7 @@ I am a Software Enginner developer with over 14 years of experience, specialized
 - **Tools & Others:** Git, Docker, Jenkins, GitHub Actions, Linux
 
 ## 📫 Get in Touch
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/fchansen/)
+- **LinkedIn:** [Meu Linkedin](https://www.linkedin.com/in/fchansen/)
 
 Thank you for visiting my profile. 
 Contact me for any collaboration opportunities or simply to exchange ideas about technology!
