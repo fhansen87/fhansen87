@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello, I'm Fábio Hansen! 👋
 
-<!--
-**fhansen87/fhansen87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me
+I am a Software Enginner developer with over 14 years of experience, specialized in Java and passionate about creating robust and scalable solutions. Throughout my career, I have had the opportunity to work with a wide range of technologies and tools, including Spring Boot, Spring Framework, Oracle, PostgreSQL, RabbitMQ, AWS, as well as DevOps practices to ensure continuous delivery and software quality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+- **Programming Languages:** Java, Delphi, Typescript
+- **Frameworks:** Spring Boot, Spring Framework
+- **Databases:** Oracle, PostgreSQL, MySQL
+- **Frontend:** Angular, JSF
+- **DevOps:** Experience with Continuous Integration and Continuous Delivery (CI/CD) 🔄, containerization 🐳, and infrastructure automation 🛠️.
+- **Tools & Others:** Git, Docker, Jenkins, GitHub Actions, Linux
+
+## 📫 Get in Touch
+- **LinkedIn:** [LinkedIn]([URL_of_your_LinkedIn](https://www.linkedin.com/in/fchansen/))
+
+Thank you for visiting my profile. 
+Contact me for any collaboration opportunities or simply to exchange ideas about technology!
+
