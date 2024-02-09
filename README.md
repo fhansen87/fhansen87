@@ -11,7 +11,7 @@ I'm a Software Enginner developer with over 14 years of experience, specialized 
 - **Databases:** Oracle, PostgreSQL, MySQL
 - **Frontend:** Angular, JSF
 - **DevOps:** Experience with Continuous Integration and Continuous Delivery (CI/CD) 🔄, containerization 🐳, and infrastructure automation 🛠️.
-- **Tools & Others:** Git, Docker, Jenkins, GitHub Actions, Linux
+- **Tools & Others:** AWS, Oracle Cloud, Git, Docker, Jenkins, GitHub Actions, Linux
 
 ## 📫 Get in Touch
 - **LinkedIn:** [My Linkedin](https://www.linkedin.com/in/fchansen/)
