@@ -7,7 +7,7 @@ I'm a Software Enginner developer with over 14 years of experience, specialized 
 
 ## 💻 Technical Skills
 - **Programming Languages:** Java, Delphi, Typescript
-- **Frameworks:** Spring Boot, Spring Framework
+- **Frameworks:** Spring Boot, Spring Framework, Hibernate, JPA
 - **Databases:** Oracle, PostgreSQL, MySQL
 - **Frontend:** Angular, JSF
 - **DevOps:** Experience with Continuous Integration and Continuous Delivery (CI/CD) 🔄, containerization 🐳, and infrastructure automation 🛠️.
