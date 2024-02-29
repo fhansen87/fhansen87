@@ -12,8 +12,8 @@ I'm a Software Enginner developer with over 14 years of experience, specialized 
 - **Message Broker**: RabbitMQ
 - **Clouds**: AWS, Oracle Cloud, Google Cloud, Cloudflare
 - **Frontend:** Angular, JSF
-- **DevOps:** Experience with Continuous Integration and Continuous Delivery (CI/CD), containerization, and infrastructure automation.
-- **Tools & Others:** Git, Docker, Jenkins, GitHub Actions, Linux
+- **DevOps:** Experience with Continuous Integration and Continuous Delivery (CI/CD), GitHub Actions, containerization, and infrastructure automation.
+- **Tools & Others:** Git, Docker, Jenkins, Linux
 
 ## 📫 Get in Touch
 - **LinkedIn:** [My Linkedin](https://www.linkedin.com/in/fchansen/)
